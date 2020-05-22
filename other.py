@@ -1,2 +1,2 @@
 print("other")
-print("notother")
+print("notothers")
