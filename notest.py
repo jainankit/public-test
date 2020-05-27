@@ -1,2 +1,2 @@
 print("no")
-assert False
+assert True
